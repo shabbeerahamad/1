@@ -5,7 +5,7 @@
 void main()
 {
 	clrscr();
-	int n, i, arr[50], search, first, last, middle;
+	int n, i, arr[40], search, first, last, middle;
 	cout<<"Enter total number of elements :";
 	cin>>n;
 	cout<<"Enter "<<n<<" number :";
